@@ -1,9 +1,9 @@
 # YF Studios 
 
-Welcome to **YF Studios** — where **tech meets fun**! 🎮✨
+Welcome to **YF Studios** — where **tech meets fun and creativity**! 🎮✨
 
-We’re a club of passionate youngers who believe **technology** is the ultimate superpower.
-We don’t just code, we create. We don’t just design, we innovate. And most importantly, we **love tech**. 
+We’re not just an another club, we're a club of passionate youngers who **love tech**
+We don’t just code, we create. We don’t just design, we innovate.
 
 ## What We Do (TL;DR)
 - **Collaboration Over Competition**: We love teaming up with other like-minded creators to make magic happen.
@@ -19,8 +19,11 @@ We’re not here to just build stuff — we’re here to **change the game**. Fr
 
 ## Our Projects (Ready to Geek Out?)
 
-### 🎮 [Project Name]
-Project description
+### 🎮 Forest Adventures (In developmemt)
+2D Platfomer in the setting of forest
+
+### 💻 Studio's website (In developmemt)
+Handwritten website using React
 
 ## Get Involved! (You In?)
 
