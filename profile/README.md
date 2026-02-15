@@ -19,7 +19,9 @@ We’re not here to just build stuff — we’re here to **change the game**. Fr
 
 ## Our Projects (Ready to Geek Out?)
 
-### 🎮 Forest Adventures (In developmemt)
+### 🎮 Kumamushi (Code name)
+
+### 🎮 Forest Adventures
 2D Platfomer in the setting of forest
 
 ### 💻 Studio's website (In developmemt)
